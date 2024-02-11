@@ -24,7 +24,7 @@ int main()
     }
 }
 
-// recursive solution
+// iterative solution
 // runtime of O(log y) ?
 // Idea:
 /**
